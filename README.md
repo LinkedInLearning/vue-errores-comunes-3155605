@@ -10,19 +10,19 @@ DESCRIPCIÓN DEL CURSO
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+Este repositorio no tiene ramas por lo que al descargar el repositorio completo obtendrás los archivos en su versión final.
 
-## Ramas
-
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+Cada carpeta en el directorio raíz corresponde a una unidad del curso y cada una tiene un nombre con un formato de `Unidad_#unidad`. Cada carpeta contiene subcarpetas las cuales contienen los ejemplos de cada lección. Las carpetas de las lecciones tienen un nombre con un formato de `leccion_#leccion`. Por ejemplo, los archivos de la lección 3 de la unidad 2 se encuentran en el directorio: `Unidad_02/leccion_03_...`.
 
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - [Node.js](https://nodejs.org/en/)
+   - Un editor de código ([VS Code](https://code.visualstudio.com/) es recomendado)
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+3. Corre el comando `npm install` dentro de cada proyecto de ejemplo.
+4. Corre el comando `npm run serve` para ejecutar el proyecto de ejemplo.
 
 ### Docente
 
