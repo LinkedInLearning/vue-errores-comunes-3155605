@@ -2,12 +2,12 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[Vue: Errores más comunes y cómo solucionarlos]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![image](https://user-images.githubusercontent.com/71371373/174971466-879e0409-63fc-4c51-8987-b59a0bdc390b.png) 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
 Descubre los errores más comunes que se cometen a la hora de utilizar VueJS y cómo evitarlos para mejorar la calidad global de tus desarrollos, así como asegurar una correcta escalabilidad en el código generado con este framework. También verás buenas prácticas de desarrollo con VueJS y herramientas de depuración que puedes usar para evitar problemas en el futuro.
+
 ## Instrucciones
 
 Este repositorio no tiene ramas por lo que al descargar el repositorio completo obtendrás los archivos en su versión final.
@@ -31,7 +31,7 @@ Cada carpeta en el directorio raíz corresponde a una unidad del curso y cada un
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/natalia-corea).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/vue-errores-mas-comunes-y-como-solucionarlos/errores-con-vue-que-debes-solucionar
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
