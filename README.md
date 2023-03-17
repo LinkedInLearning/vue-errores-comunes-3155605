@@ -1,8 +1,8 @@
 # Vue: Errores más comunes y cómo solucionarlos
 
-Este es el repositorio del curso de LinkedIn Learning `[Vue: Errores más comunes y cómo solucionarlos]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Vue: Errores más comunes y cómo solucionarlos`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/174971466-879e0409-63fc-4c51-8987-b59a0bdc390b.png) 
+![COURSENAME][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -32,6 +32,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/vue-errores-mas-comunes-y-como-solucionarlos/errores-con-vue-que-debes-solucionar
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-
-[1]: # (End of ES-Instruction ###############################################################################################)
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3155605/3155605-1655809158301-16x9.jpg
